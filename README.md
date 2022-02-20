@@ -1,1 +1,1 @@
-# A dating website for dogs made using HTML, CSS and Bootstrap.
+# A web application for dogs where they can look for suitable dates.
